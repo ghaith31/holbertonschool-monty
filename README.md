@@ -39,7 +39,4 @@ $ ./monty bytecodes/00.m
 ## Code Style
 [Betty Style](https://github.com/holbertonschool/Betty) was implemented for all files.
 
-## Authors
 
-@ghaith gharsalli
-@nour ben hazem
